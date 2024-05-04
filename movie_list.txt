@@ -1,0 +1,258 @@
+Marx Brothers
+[X] Animal Crackers (1930)
+[X] A Night at the Opera (1935)
+[X] A Day at the Races (1937)
+
+Murnau
+[X] Der letzte Mann (1924)
+[X] Faust (1926)
+[X] Sunrise: A Song of Two Humans (1927)
+[X] Tabu (1931)
+
+Lang
+[X] Metropolis (1927)
+[X] M (1931)
+[X] The Testament of Dr. Mabuse (1933)
+
+Chaplin
+[X] The Gold Rush (1925)
+[X] City Lights (1931)
+[X] Modern Times (1936)
+[X] The Great Dictator (1940)
+
+Eisenstein
+[X] Strike (1925)
+[X] Battleship Potemkin (1925)
+[X] October: Ten Days That Shook the World (1927)
+[X] Alexander Nevsky (1938)
+[X] Ivan the Terrible, Part I (1945)
+
+[X] Der Golem, wie er in die Welt kam (1920)
+[X] Greed (1924)
+[X] Napoleon (1927)
+[X] Man With a Movie Camera (1929)
+[ ] Pandora's Box (1929)
+
+Dreyer
+[X] La Passion de Jeanne d'Arc (1928)
+[X] Vampyr (1932)
+[X] Vredens dag (1943)
+[X] Ordet (1955)
+[X] Gertrud (1964)
+
+Buñuel
+[X] Un Chien Andalou (1929)
+[X] L'Age d'Or (1930)
+[X] Los Olvidados (1950)
+[X] Viridiana (1961)
+[X] El Angel Exterminador (1962)
+[X] Belle de Jour (1967)
+[X] The Discreet Charm of the Bourgeoisie (1972)
+
+[X] Zemlya (1930)
+[ ] U samogo sinego morya (1936)
+
+Lubitsch
+[X] Trouble in Paradise (1932)
+[X] The Shop Around the Corner (1940)
+[X] To Be or Not To Be (1942)
+
+Renoir
+[X] La Grande Illusion (1937)
+[X] La Règle du Jeu [The Rules of the Game] (1939)
+[X] Une Partie de Campagne [A Day in the Country] (1946)
+[X] Le Fleuve [The River] (1951)
+
+Ozu
+[X] Otona no miru ehon - Umarete wa mita keredo [I Was Born, But...] (1932)
+[X] Banshun [Late Spring] (1949)
+[X] Tōkyō Monogatari [Tokyo Story] (1953)
+[X] Sanma no aji [An Autumn Afternoon] (1962)
+
+Mizoguchi
+[X] Zangiku Monogatari [The Story of the Last Chrysanthemums] (1939)
+[X] Saikaku Ichidai Onna [The Life of Oharu] (1952)
+[X] Ugetsu Monogatari [Ugetsu] (1953)
+[X] Sanshō Dayū [Sansho the Bailiff] (1954)
+
+Powell & Pressburger
+[ ] The Life and Death of Colonel Blimp (1943)
+[ ] A Canterbury Tale (1944)
+[ ] "I Know Where I'm Going!" (1945)
+[ ] A Matter of Life and Death (1946)
+[ ] Black Narcissus (1947)
+[ ] The Red Shoes (1948)
+
+Ford
+[X] Stagecoach (1939)
+[X] The Grapes of Wrath (1940)
+[ ] How Green Was My Valley (1941)
+[ ] My Darling Clementine (1946)
+[X] The Quiet Man (1952)
+[X] The Searchers (1956)
+[X] The Man Who Shot Liberty Valance (1962)
+
+Hawks
+[X] Bringing Up Baby (1938)
+[ ] Only Angels Have Wings (1939)
+[X] His Girl Friday (1940)
+[ ] Rio Bravo (1958)
+
+Wilder
+[X] Double Indemnity (1944)
+[X] Sunset Blvd (1950)
+[X] Some Like It Hot (1959)
+[X] The Apartment (1961)
+
+Hitchcock
+[ ] The 39 Steps (1935)
+[ ] The Lady Vanishes (1938)
+[ ] Rebecca (1940)
+[ ] Notorious (1946)
+[ ] Strangers on a Train (1951)
+[X] Dial M for Murder (1954)
+[X] Rear Window (1954)
+[X] Vertigo (1958)
+[X] North by Northwest (1959)
+[X] Psycho (1960)
+[ ] Marnie (1964)
+
+Welles
+[X] Citizen Kane (1941)
+[X] The Magnificent Ambersons (1942)
+[ ] The Lady from Shanghai (1947)
+[ ] Othello (1951)
+[ ] Chimes at Midnight (1965)
+[ ] F is for Fake (1973)
+
+Kurosawa
+[ ] Rashomon (1950)
+[ ] Ikiru (1952)
+[ ] Seven Samurai (1954)
+[ ] High and Low (1963)
+[ ] Ran (1985)
+
+Ray
+[ ] Pather Panchali (1955)
+[ ] The Music Room (1958)
+[ ] The World of Apu (1959)
+
+Rossellini
+[ ] Rome, Open City (1945)
+[ ] Paisà (1946)
+[ ] Germany, Year Zero (1948)
+[ ] Europa '51 (1952)
+[ ] Journey to Italy (1954)
+
+Fellini
+[ ] La Strada (1954)
+[ ] La Dolce Vita (1960)
+[ ] 8 1/2 (1963)
+[ ] Amarcord (1972)
+
+Antonioni
+[ ] L'Avventura (1960)
+[ ] L'Eclisse (1962)
+[ ] Il Deserto Rosso (1964)
+[ ] Blow Up (1966)
+[ ] The Passenger (1974)
+
+Bergman
+[X] Det sjunde inseglet (1957)
+[ ] Smultronstället (1957)
+[ ] Persona (1966)
+[ ] Cries and Whispers (1972)
+[ ] Fanny och Alexander (1982)
+
+[ ] L'Atalante (1934)
+
+Bresson
+[ ] Journal d'un curé de campagne (1951)
+[ ] Un condamné à mort s'est échappé ou Le vent souffle où il veut (1956)
+[ ] Pickpocket (1959)
+[ ] Au Hasard Balthazar (1966)
+[ ] Mouchette (1967)
+[ ] Le Diable probablement (1977)
+[ ] L'Argent (1983)
+
+Godard
+[X] À bout de souffle (1960)
+[ ] Vivre Sa Vie (1962)
+[ ] Le Mépris (1963)
+[ ] Pierrot le Fou (1965)
+[ ] Two or Three Things I Know About Her (1967)
+[ ] Histoire(s) du cinéma (1988)
+
+Tarkovsky
+[ ] Andrei Rublev (1966)
+[ ] Solaris (1972)
+[ ] Mirror (1974)
+[ ] Stalker (1979)
+[ ] The Sacrifice (1986)
+
+Cassavetes
+[ ] Shadows (1959)
+[ ] Faces (1968)
+[ ] Husbands (1970)
+[ ] A Woman Under the Influence (1974)
+[ ] Love Streams (1984)
+
+Kubrick
+[ ] Paths of Glory (1957)
+[X] Spartacus (1960)
+[X] Dr. Strangelove (1963)
+[X] 2001: A Space Odyssey (1968)
+[X] A Clockwork Orange (1971)
+[ ] Barry Lyndon (1975)
+[X] The Shining (1980)
+[ ] Eyes Wide Shut (1999)
+
+Varda
+[ ] Cléo from 5 to 7 (1962)
+[ ] Le Bonheur (1965)
+[ ] Vagabond (1985)
+[ ] The Gleaners and I (2000)
+
+Akerman
+[ ] Je Tu Il Elle (1974)
+[ ] Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles (1975)
+[ ] News from Home (1976)
+
+Altman
+[X] M*A*S*H (1970)
+[ ] The Long Goodbye (1973)
+[ ] Nashville (1975)
+[ ] The Player (1992)
+[ ] Gosford Park (2001)
+
+Lynch
+[ ] Eraserhead (1976)
+[ ] Blue Velvet (1986)
+[X] Twin Peaks: Fire Walk with Me (1992)
+[ ] Mulholland Dr. (2001)
+[ ] Twin Peaks: The Return (2018)
+
+Malick
+[ ] Badlands (1973)
+[ ] Days of Heaven (1978)
+[ ] The Thin Red Line (1998)
+[ ] The Tree of Life (2011)
+
+Kiarostami
+[ ] Khane-ye dust kojast (1987)
+[ ] Klūzāp, nemā-ye nazdīk (1990)
+[ ] Ta'm-e gīlās... (1997)
+
+Tarantino
+[X] Reservoir Dogs (1992)
+[X] Pulp Fiction (1994)
+[ ] Jackie Brown (1997)
+[X] Kill Bill: Volume 1 (2003)
+[X] Kill Bill: Volume 2 (2004)
+[ ] Inglourious Basterds (2009)
+[ ] Django Unchained (2012)
+
+Tarr
+[ ] Sátántangó (1994)
+[ ] Werckmeister harmóniák (2000)
+[ ] A torinói ló (2011)

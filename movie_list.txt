@@ -109,6 +109,7 @@ Hitchcock
 [ ] The Lady Vanishes (1938)
 [ ] Rebecca (1940)
 [ ] Notorious (1946)
+[ ] Rope (1948)
 [ ] Strangers on a Train (1951)
 [X] Dial M for Murder (1954)
 [X] Rear Window (1954)
@@ -129,6 +130,7 @@ Kurosawa
 [ ] Rashomon (1950)
 [ ] Ikiru (1952)
 [ ] Seven Samurai (1954)
+[ ] Throne of Blood (1957) - Double Feature with Kurzel's Macbeth (2015)
 [ ] High and Low (1963)
 [ ] Ran (1985)
 
@@ -197,6 +199,9 @@ Cassavetes
 [ ] A Woman Under the Influence (1974)
 [ ] Love Streams (1984)
 
+Maurice Pialat
+[ ] À Nos Amours (1983)
+
 Kubrick
 [ ] Paths of Glory (1957)
 [X] Spartacus (1960)
@@ -217,6 +222,14 @@ Akerman
 [ ] Je Tu Il Elle (1974)
 [ ] Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles (1975)
 [ ] News from Home (1976)
+
+De Palma
+[ ] Blow Out (1981)
+[ ] The Untouchables (1987)
+
+Schrader
+[ ] American Gigoloo (1980)
+[ ] Mishima: A Life in Four Chapters (1985)
 
 Altman
 [X] M*A*S*H (1970)
@@ -251,6 +264,11 @@ Tarantino
 [X] Kill Bill: Volume 2 (2004)
 [ ] Inglourious Basterds (2009)
 [ ] Django Unchained (2012)
+[ ] Hateful Eight (2015)
+
+Denis
+[ ] Beau Travail
+[ ] White Material
 
 Tarr
 [ ] Sátántangó (1994)

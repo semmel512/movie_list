@@ -76,31 +76,38 @@ Mizoguchi
 [X] Sanshō Dayū [Sansho the Bailiff] (1954)
 
 Powell & Pressburger
-[ ] The Life and Death of Colonel Blimp (1943)
-[ ] A Canterbury Tale (1944)
-[ ] "I Know Where I'm Going!" (1945)
-[ ] A Matter of Life and Death (1946)
-[ ] Black Narcissus (1947)
-[ ] The Red Shoes (1948)
+[X] The Life and Death of Colonel Blimp (1943)
+[X] A Canterbury Tale (1944)
+[X] "I Know Where I'm Going!" (1945)
+[X] A Matter of Life and Death (1946)
+[X] Black Narcissus (1947)
+[X] The Red Shoes (1948)
 
 Ford
+[X] The Informer (1935)
 [X] Stagecoach (1939)
 [X] The Grapes of Wrath (1940)
-[ ] How Green Was My Valley (1941)
-[ ] My Darling Clementine (1946)
+[X] How Green Was My Valley (1941)
+[X] My Darling Clementine (1946)
 [X] The Quiet Man (1952)
 [X] The Searchers (1956)
 [X] The Man Who Shot Liberty Valance (1962)
 
 Hawks
+[X] Scarface (1932)
 [X] Bringing Up Baby (1938)
-[ ] Only Angels Have Wings (1939)
+[X] Only Angels Have Wings (1939)
 [X] His Girl Friday (1940)
+[ ] To Have and Have Not (1944)
+[X] The Big Sleep (1946)
+[ ] Red River (1948)
+[ ] Gentlemen Prefer Blondes (1953)
 [ ] Rio Bravo (1958)
 
 Wilder
 [X] Double Indemnity (1944)
 [X] Sunset Blvd (1950)
+[ ] The Seven Year Itch (1955)
 [X] Some Like It Hot (1959)
 [X] The Apartment (1961)
 
@@ -124,7 +131,7 @@ Welles
 [ ] The Lady from Shanghai (1947)
 [ ] Othello (1951)
 [ ] Chimes at Midnight (1965)
-[ ] F is for Fake (1973)
+[ ] F for Fake (1973)
 
 Kurosawa
 [ ] Rashomon (1950)
@@ -199,8 +206,10 @@ Cassavetes
 [ ] A Woman Under the Influence (1974)
 [ ] Love Streams (1984)
 
-Maurice Pialat
+Pialat
+[ ] L'enfance nue (1969)
 [ ] À Nos Amours (1983)
+[ ] Sous le soleil de Satan (1987)
 
 Kubrick
 [ ] Paths of Glory (1957)
@@ -224,11 +233,14 @@ Akerman
 [ ] News from Home (1976)
 
 De Palma
+[ ] Carrie (1976)
 [ ] Blow Out (1981)
+[ ] Scarface (1983)
 [ ] The Untouchables (1987)
 
 Schrader
-[ ] American Gigoloo (1980)
+[ ] Blue Collar (1978)
+[ ] American Gigolo (1980)
 [ ] Mishima: A Life in Four Chapters (1985)
 
 Altman
@@ -237,6 +249,13 @@ Altman
 [ ] Nashville (1975)
 [ ] The Player (1992)
 [ ] Gosford Park (2001)
+
+Herzog
+[ ] Aguirre, the Wrath of God (1972)
+[ ] The Enigma of Kaspar Hauser (1974)
+[ ] Fitzcarraldo (1982)
+[X] Grizzly Man (2005)
+[ ] Cave of Forgotten Dreams (2010)
 
 Lynch
 [ ] Eraserhead (1976)
@@ -266,9 +285,21 @@ Tarantino
 [ ] Django Unchained (2012)
 [ ] Hateful Eight (2015)
 
+Kar-Wai
+[ ] Chungking Express (1994)
+[ ] Happy Together (1997)
+[ ] In the Mood for Love (2000)
+[ ] 2046 (2004)
+
+Kieślowski
+[ ] Dekalog (1989)
+[ ] The Double Life of Veronique (1991)
+[ ] Three Colours (1993-1994)
+
 Denis
-[ ] Beau Travail
-[ ] White Material
+[ ] Beau Travail (1999)
+[ ] The Intruder (2004)
+[ ] White Material (2009)
 
 Tarr
 [ ] Sátántangó (1994)

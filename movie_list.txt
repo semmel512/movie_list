@@ -31,7 +31,7 @@ Eisenstein
 [X] Greed (1924)
 [X] Napoleon (1927)
 [X] Man With a Movie Camera (1929)
-[ ] Pandora's Box (1929)
+[X] Zemlya (1930)
 
 Dreyer
 [X] La Passion de Jeanne d'Arc (1928)
@@ -48,9 +48,6 @@ Buñuel
 [X] El Angel Exterminador (1962)
 [X] Belle de Jour (1967)
 [X] The Discreet Charm of the Bourgeoisie (1972)
-
-[X] Zemlya (1930)
-[ ] U samogo sinego morya (1936)
 
 Lubitsch
 [X] Trouble in Paradise (1932)
@@ -116,14 +113,15 @@ Wilder
 [X] The Apartment (1961)
 
 Hitchcock
-[ ] The Man Who Knew Too Much (1934)
-[ ] The 39 Steps (1935)
-[ ] The Lady Vanishes (1938)
-[ ] Rebecca (1940)
-[ ] Shadow of a Doubt (1943)
-[ ] Notorious (1946)
-[ ] Rope (1948)
-[ ] Strangers on a Train (1951)
+[X] The Man Who Knew Too Much (1934)
+[X] The 39 Steps (1935)
+[X] Sabotage (1936)
+[X] The Lady Vanishes (1938)
+[X] Rebecca (1940)
+[X] Shadow of a Doubt (1943)
+[X] Notorious (1946)
+[X] Rope (1948)
+[X] Strangers on a Train (1951)
 [X] Dial M for Murder (1954)
 [X] Rear Window (1954)
 [ ] The Man Who Knew Too Much (1956)
@@ -131,6 +129,16 @@ Hitchcock
 [X] North by Northwest (1959)
 [X] Psycho (1960)
 [ ] Marnie (1964)
+
+[ ] The Crowd (1928)
+[ ] Pandora's Box (1929)
+[ ] Limite (1931)
+[ ] U samogo sinego morya (1936)
+
+Sturges
+[ ] The Lady Eve (1941)
+[ ] Sullivan's Travels (1941)
+[ ] The Palm Beach Story (1942)
 
 Welles
 [X] Citizen Kane (1941)
@@ -145,18 +153,22 @@ Kurosawa
 [ ] Ikiru (1952)
 [ ] Seven Samurai (1954)
 [ ] Throne of Blood (1957)
+[ ] Yojimbo (1961)
 [ ] High and Low (1963)
 [ ] Ran (1985)
 
 Ray
 [ ] Pather Panchali (1955)
+[ ] Aparajito (1956)
 [ ] The Music Room (1958)
 [ ] The World of Apu (1959)
+[ ] Charulata (1964)
 
 Rossellini
 [ ] Rome, Open City (1945)
 [ ] Paisà (1946)
 [ ] Germany, Year Zero (1948)
+[ ] Stromboli (1950)
 [ ] Europa '51 (1952)
 [ ] Journey to Italy (1954)
 

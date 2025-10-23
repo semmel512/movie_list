@@ -124,20 +124,21 @@ Hitchcock
 [X] Strangers on a Train (1951)
 [X] Dial M for Murder (1954)
 [X] Rear Window (1954)
-[ ] The Man Who Knew Too Much (1956)
+[X] The Man Who Knew Too Much (1956)
 [X] Vertigo (1958)
 [X] North by Northwest (1959)
 [X] Psycho (1960)
-[ ] Marnie (1964)
+[X] Marnie (1964)
 
-[ ] The Crowd (1928)
-[ ] Pandora's Box (1929)
-[ ] Limite (1931)
-[ ] U samogo sinego morya (1936)
+[X] The Crowd (1928)
+[X] Pandora's Box (1929)
+[X] Limite (1931)
+[X] U samogo sinego morya (1936)
 
 Sturges
-[ ] The Lady Eve (1941)
-[ ] Sullivan's Travels (1941)
+[X] The Great McGinty (1940)
+[X] The Lady Eve (1941)
+[X] Sullivan's Travels (1941)
 [ ] The Palm Beach Story (1942)
 
 Welles
@@ -202,6 +203,9 @@ Bresson
 [ ] Mouchette (1967)
 [ ] Le Diable probablement (1977)
 [ ] L'Argent (1983)
+
+[ ] Les quatre cents coups (1959)
+[ ] Jules et Jim (1962)
 
 Godard
 [X] À bout de souffle (1960)

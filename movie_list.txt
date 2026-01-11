@@ -139,24 +139,27 @@ Sturges
 [X] The Great McGinty (1940)
 [X] The Lady Eve (1941)
 [X] Sullivan's Travels (1941)
-[ ] The Palm Beach Story (1942)
+[X] The Palm Beach Story (1942)
 
 Welles
 [X] Citizen Kane (1941)
 [X] The Magnificent Ambersons (1942)
-[ ] The Lady from Shanghai (1947)
-[ ] Othello (1951)
-[ ] Chimes at Midnight (1965)
-[ ] F for Fake (1973)
+[X] The Lady from Shanghai (1947)
+[X] Othello (1951)
+[X] Mr. Arkadin (1955)
+[X] The Trial (1962)
+[X] Chimes at Midnight (1965)
+[X] F for Fake (1973)
 
 Kurosawa
-[ ] Rashomon (1950)
-[ ] Ikiru (1952)
-[ ] Seven Samurai (1954)
-[ ] Throne of Blood (1957)
-[ ] Yojimbo (1961)
-[ ] High and Low (1963)
-[ ] Ran (1985)
+[X] Rashomon (1950)
+[X] Ikiru (1952)
+[X] Seven Samurai (1954)
+[X] Throne of Blood (1957)
+[X] Yojimbo (1961)
+[X] Sanjuro (1962)
+[X] High and Low (1963)
+[X] Ran (1985)
 
 Ray
 [ ] Pather Panchali (1955)
@@ -286,7 +289,7 @@ Lynch
 [ ] Blue Velvet (1986)
 [X] Twin Peaks: Fire Walk with Me (1992)
 [ ] Mulholland Dr. (2001)
-[ ] Twin Peaks: The Return (2018)
+[X] Twin Peaks: The Return (2018)
 
 Malick
 [ ] Badlands (1973)
@@ -309,7 +312,17 @@ Tarantino
 [ ] Django Unchained (2012)
 [ ] Hateful Eight (2015)
 
-Kar-Wai
+Yang
+[ ] Taipei Story (1985)
+[ ] A Brighter Summer Day (1991)
+[ ] Yi Yi (2000)
+
+Hou
+[ ] A City of Sadness (1989)
+[ ] The Puppetmaster (1993)
+[ ] Flowers of Shanghai (1998)
+
+Wong
 [ ] Chungking Express (1994)
 [ ] Happy Together (1997)
 [ ] In the Mood for Love (2000)
@@ -329,3 +342,9 @@ Tarr
 [ ] Sátántangó (1994)
 [ ] Werckmeister harmóniák (2000)
 [ ] A torinói ló (2011)
+ 
+Weerasethakul
+[ ] Blissfully Yours (2002)
+[ ] Tropical Malady (2004)
+[ ] Syndromes and a Century (2006)
+[ ] Uncle Boonmee Who Can Recall His Past Lives (2010)
